@@ -40,8 +40,8 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 
 // Explain in your own words why nestedfunction can access the variable internal.
  
-  The nestedFunction is closed from the outside. We can say it has a local scope which
-  gives it access to all global variable such as: external and internal.
+  // The nestedFunction is closed from the outside. We can say it has a local scope which
+  // gives it access to all global variable such as: external and
 
 // Explanation: 
 
